@@ -1,23 +1,2 @@
-#akhila{
-    height:100px;
-    width:300px;
-    color:brown;
-    padding-top: 5%;
-    display:inline-block;
-    font-style: italic;
-    background-color:beige;
-    position:relative;
-    top:100px;
-    left:400px;
-    animation-name:abc;
-    animation-duration:5s;
 
-}
-@keyframes abc{
-  25%{
-  bottom:100px;
-  left:0px;
 
-  }
- 
-}
